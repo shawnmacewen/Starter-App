@@ -1,0 +1,22 @@
+settings =
+{
+        orientation =
+        {
+                default = "landscapeRight",
+				supported =
+					{
+							 "landscapeRight", "landscapeLeft"
+					},
+        },
+ 
+        iphone =
+        {
+                plist =
+                {
+                		UIStatusBarHidden=true,
+                        UIPrerenderedIcon = true
+                },
+        }
+        
+        
+}
